@@ -282,6 +282,7 @@ dependencies {
     // GTFS Realtime bindings for parsing GTFS-realtime data
     implementation "org.mobilitydata:gtfs-realtime-bindings:0.0.8"
     implementation 'com.google.api.grpc:proto-google-common-protos:2.9.0'
+    testImplementation 'junit:junit:4.13.2'
 
 }
 
