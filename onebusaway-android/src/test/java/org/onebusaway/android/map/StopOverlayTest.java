@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import org.onebusaway.android.map.StopOverlay;
+import org.onebusaway.android.map.googlemapsv2.StopOverlay;
 
 public class StopOverlayTest {
 
